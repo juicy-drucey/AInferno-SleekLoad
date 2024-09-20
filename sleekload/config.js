@@ -25,7 +25,7 @@ config.logo_use_image = true
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = "Perth Frontier"
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -97,11 +97,11 @@ config.background_darkening = 30
 
 // Play music during the loading screen?
 // "true" or "false"
-config.music_enable = true
+config.music_enable = false
 
 // Display current music name?
 // "true" or "false"
-config.music_show = true
+config.music_show = false
 
 // Music playlist
 // Add as many youtube ids/urls or audio files you want
@@ -144,9 +144,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to SleekLoad!",
-	"Customize your loading screen by editing the config file",
-	"Enjoy!",
+	"Welcome to Perth Frontier!",
 ]
 
 // Random message order?
