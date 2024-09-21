@@ -32,7 +32,7 @@ config.logo_servername = false
 
 // Center logo?
 // "true" or "false"
-config.logo_center = false
+config.logo_center = true
 
 // Display current map and gamemode?
 // "true" or "false"
@@ -144,7 +144,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to Perth Frontier!",
+	"Make Roleplay Great Again!",
 ]
 
 // Random message order?
