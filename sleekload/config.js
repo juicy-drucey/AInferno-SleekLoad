@@ -25,7 +25,7 @@ config.logo_use_image = true
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "Perth Frontier"
+config.logo_text = "Aussie Frontier"
 
 // Use the server's name for the logo
 config.logo_servername = false
@@ -36,12 +36,12 @@ config.logo_center = true
 
 // Display current map and gamemode?
 // "true" or "false"
-config.logo_show_info = false
+config.logo_show_info = true
 
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = true
+config.background_use_video = false
 
 // Default available videos:
 // "blue_rays.webm"
@@ -60,7 +60,7 @@ config.background_video = "purple_blue_rays.webm"
 // Also, the image needs to be in .jpg format
 // E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 // "true" or "false"
-config.background_map_based = false
+config.background_map_based = true
 
 // (Image-background only)
 // Place one or more images
