@@ -32,11 +32,11 @@ config.logo_servername = false
 
 // Center logo?
 // "true" or "false"
-config.logo_center = false
+config.logo_center = true
 
 // Display current map and gamemode?
 // "true" or "false"
-config.logo_show_info = true
+config.logo_show_info = false
 
 // Use a video for the background?
 // Otherwise it will use images
