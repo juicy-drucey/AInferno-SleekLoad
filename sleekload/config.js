@@ -144,7 +144,9 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Make Roleplay Great Again!",
+	"Welcome to Aussie Inferno!",
+	"First time joining will require a bit of patience for downloads",
+	"Come join our Discord @ discord.gg/AussieInferno",
 ]
 
 // Random message order?
