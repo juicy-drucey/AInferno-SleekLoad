@@ -146,7 +146,7 @@ config.messages_enable = true
 config.messages_list = [
 	"Welcome to Aussie Inferno!",
 	"First time joining will require a bit of patience for downloads",
-	"Come join our Discord @ discord.gg/7uQKR24hWc",
+	"Come join our Discord @ discord.gg/NenXQhtQRa",
 ]
 
 // Random message order?
